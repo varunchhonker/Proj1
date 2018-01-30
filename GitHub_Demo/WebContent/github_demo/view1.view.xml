@@ -2,7 +2,7 @@
 		controllerName="github_demo.view1" xmlns:html="http://www.w3.org/1999/xhtml">
 	<Page title="Title">
 		<content>
-	
+			<Button text="Button"></Button>
 		</content>
 	</Page>
 </core:View>
