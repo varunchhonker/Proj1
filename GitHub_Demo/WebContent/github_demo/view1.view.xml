@@ -4,6 +4,7 @@
 		<content>
 			<Button text="Button"></Button>
 			<Text text="Text"/>
+			<Input value="Input"/>
 		</content>
 	</Page>
 </core:View>
